@@ -7,5 +7,5 @@ This demo is set up to use [Deepgram](www.deepgram.com) for the audio service an
 This demo utilizes streaming for sst and tts to speed things up.
 
 ```bash
-python QuickAgent.py
+python Agent.py
 ```
